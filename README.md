@@ -23,9 +23,9 @@ main(): Acts as the entry point for the program. Displays available drinks, prom
 
 Available Drinks
 
-Coke: $4.00
-Water: $2.00
-Milo: $3.00
+- Coke: $4.00
+- Water: $2.00
+- Milo: $3.00
 
 Notes
 
